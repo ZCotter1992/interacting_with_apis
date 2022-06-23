@@ -10,7 +10,19 @@ Hello and thank you for taking the time to evaluate this tech test. To run the c
 
 DOWNLOADING / INSTALLING PREREQUISITES (CLI)
 
+
 You can also view the list of dependencies by looking at the 'dependencies.docx' file.
+
+
+Be sure to have the latest version of Python 3 installed. You can find the download and installation instructions here:
+https://www.python.org/downloads/
+
+
+Be sure to have the latest upgraded version of pip installed. E.g. for Windows type the following command in shell / cmd prompt:
+'python -m pip install --upgrade pip'
+If you don't have pip installed you can view installation instructions here:
+https://pip.pypa.io/en/stable/installation/
+
 
 In order to run the files please first consult the list of dependencies; necessary python modules to download. They are the following.
 
@@ -23,6 +35,7 @@ In order to run the files please first consult the list of dependencies; necessa
 3) pytest
 ('pip install pytest' in shell / cmd prompt, if you are using PyCharm ensure module in installed by hovering over the import statement and pressing Alt+Shift+Enter)
 
+
 Please ensure you check your Python Interpreter/path to see if the installed prerequisites are included. If you are using PyCharm you can go to:
 File -> Settings -> [project_name (e.g. 'interacting_with_apis'] -> Python Interpreter
 
@@ -33,6 +46,7 @@ An internet connection is required to access artist and song information, allowi
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 RUNNING THE TEST MODULE (CLI)
+
 
 To run the test module 'test_interacting_with_apis.py', cd / change directory to the location of the .py file in shell / cmd prompt, e.g. for Windows:
 'cd C:\Users\[User]\PycharmProjects\interacting_with_apis\'
@@ -51,6 +65,7 @@ Press ctrl+c to abort at any time.
 
 RUNNING THE PROGRAM INTERACTING WITH APIS: MEAN LYRICS CALCULATOR (CLI)
 
+
 To run the program 'interacting_with_apis.py', cd / change directory to the location of the .py file in shell / cmd prompt, e.g. for Windows:
 'cd C:\Users\[User]\PycharmProjects\interacting_with_apis\'
 
@@ -68,11 +83,12 @@ Press ctrl+c to abort at any time.
 
 SOME RECOMMENDED SEARCHES
 
+
 Of course you can search for any artist you like, however it is not guaranteed that an artist will be found in the MusicBrainz database, or that song lyrics will necessarily be retrieved from OVH.
 
 For the sake of convenience, it is recommended to include between 1-10 songs to average across. Results are calculated more reliably and speedily.
 
-If an artist is not found or if lyrics are not retrieved, please follow the displayed instructions.
+If an artist is not found or if lyrics are not retrieved, please follow the displayed instructions (e.g. including a lower number of songs to average across).
 
 The formula for the recommended searches is as follows:
 artist, artist number, number of songs to average across
@@ -80,11 +96,13 @@ artist, artist number, number of songs to average across
 1) Abba, 1, 6
 2) Spice Girls, 1, 11
 3) Queen, 1, 7
-4) Black Veil Brides, 1, 13
+4) Black Veil Brides, 1, 16
+5) Megadeth, 1, 10
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 TEST LOG
+
 
 You can view the results of running the unit testing module test_interacting_with_apis.py by reading the file 'test_log_interacting_with_apis.docx'. Here you will find a table of testing results and changes made.
 
