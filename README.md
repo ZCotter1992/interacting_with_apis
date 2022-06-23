@@ -70,6 +70,8 @@ SOME RECOMMENDED SEARCHES
 
 Of course you can search for any artist you like, however it is not guaranteed that an artist will be found in the MusicBrainz database, or that song lyrics will necessarily be retrieved from OVH.
 
+For the sake of convenience, it is recommended to include between 1-10 songs to average across. Results are calculated more reliably and speedily.
+
 If an artist is not found or if lyrics are not retrieved, please follow the displayed instructions.
 
 The formula for the recommended searches is as follows:
