@@ -76,7 +76,9 @@ The formula for the recommended searches is as follows:
 artist, artist number, number of songs to average across
 
 1) Abba, 1, 6
-2) Megadeth, 1, 
+2) Spice Girls, 1, 11
+3) Queen, 1, 7
+4) Black Veil Brides, 1, 13
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
