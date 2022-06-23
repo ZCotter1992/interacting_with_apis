@@ -10,6 +10,8 @@ Hello and thank you for taking the time to evaluate this tech test. To run the c
 
 DOWNLOADING / INSTALLING PREREQUISITES (CLI)
 
+You can also view the list of dependencies by looking at the 'dependencies.docx' file.
+
 In order to run the files please first consult the list of dependencies; necessary python modules to download. They are the following.
 
 1) requests
@@ -79,4 +81,6 @@ artist, artist number, number of songs to average across
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 TEST LOG
+
+You can view the results of running the unit testing module test_interacting_with_apis.py by reading the file 'test_log_interacting_with_apis.docx'. Here you will find a table of testing results and changes made.
 
